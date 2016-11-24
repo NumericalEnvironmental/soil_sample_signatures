@@ -1,5 +1,5 @@
 # soil_sample_signatures
-This is a python script I used to employ example data mining tools from scikit-learn to identify spatial variability in petroleum hydrocarbon product signatures in soil samples collected from a large environmental site. It serves as a simple demo as to how to use both pandas and scikit-learn to easily sort through a medium-sized data set and glean insights.
+This is a Python 2.7 script I used to employ example data mining tools from scikit-learn to identify spatial variability in petroleum hydrocarbon product signatures in soil samples collected from a large environmental site. It serves as a simple demo as to how to use both pandas and scikit-learn to easily sort through a medium-sized data set and glean insights.
 
 The following tab-delimited input files are required:
 
