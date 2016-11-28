@@ -4,6 +4,8 @@
 
 This is a Python 2.7 script I used to employ example data mining tools from scikit-learn to identify spatial variability in petroleum hydrocarbon product signatures in soil samples collected from a large environmental site. It serves as a simple demo as to how to use both pandas and scikit-learn to easily sort through a medium-sized data set and glean insights.
 
+The script requires the numpy, pandas, and sklearn libraries.
+
 The following tab-delimited input files are required:
 
 * fuel_ref.txt = reference compositions for petroleum products (by TPH range); several examples are included for each product so that averages and standard deviations can be computed
